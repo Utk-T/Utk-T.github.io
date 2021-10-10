@@ -93,6 +93,19 @@ th.T2{
 }
 
 }
+
+@media only screen and (max-width: 480px)
+{
+body {
+    background-image: url("https://i.ibb.co/qp0wkBK/shapelined-JBKdviwe-XI-unsplash.jpg");  
+    background-repeat:no-repeat;
+    background-position: center ;
+    background-attachment: fixed ;
+    background-size: 1300px;
+   
+}
+}
+
 @media only screen and (max-width: 768px)
 {
 body {
